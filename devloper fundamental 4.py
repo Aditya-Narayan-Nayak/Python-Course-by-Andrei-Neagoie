@@ -1,0 +1,4 @@
+# clean
+# usability
+# predictability
+# DRY
